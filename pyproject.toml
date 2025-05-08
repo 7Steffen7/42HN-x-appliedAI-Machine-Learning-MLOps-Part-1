@@ -9,5 +9,7 @@ dependencies = [
     "pandas>=2.2.3",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
+    "sk>=0.0.1",
     "ucimlrepo>=0.0.7",
+    "xgboost>=3.0.0",
 ]
