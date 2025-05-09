@@ -51,5 +51,3 @@ Accuracy isn't reliable. Use:
 - These can handle imbalance better, especially with class weighting.
 
 ---
-
-Would you like to see code examples using `scikit-learn` for any of these techniques?
